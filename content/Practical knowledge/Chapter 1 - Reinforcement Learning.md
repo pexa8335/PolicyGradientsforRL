@@ -128,7 +128,14 @@ $$
 
 Value function = Expected discounted return given a state.
 
-# 6. The Deep in Reinforcement Learning.
+# 6. Deep Reinforcement Learning.
+
+Using Deep Neural Networks to solve RL problems.
+
+Two value-based algorithms:
+
+- Q-Learning.
+- Deep Q-Learning.
 
 
 
